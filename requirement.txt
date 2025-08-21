@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pytesseract
+pillow
+scikit-learn
+sqlalchemy
+python-multipart
